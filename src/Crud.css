@@ -1,0 +1,24 @@
+.parent1__ct{
+    display: flex;
+    padding: 2rem;
+    gap:1rem;
+}
+
+.button__ct{
+    border: none;
+    border-radius: 10px;
+    background-color: rgb(60, 237, 98);
+    font-weight: bold;
+    color:white;
+    cursor: pointer;
+}
+
+.alert-success {
+    color: #49bb64;
+    background-color: #d4edda;
+    border-color: #c3e6cb;
+    padding: 0.75rem 1.25rem;
+    margin-bottom: 1rem;
+    border: 1px solid transparent;
+    border-radius: 0.25rem;
+  }
